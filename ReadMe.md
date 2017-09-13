@@ -33,7 +33,8 @@ This is a repo through which a friend of mine learns the magical art of code and
 
 #### EBooks
 - Learn Bash the Hard way
-- Learn enough series 
+- Appendix - Learn Python the Hard Way
+- Learn enough bash - posh
 
 #### Books
 - CTCI 
