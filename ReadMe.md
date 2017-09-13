@@ -17,8 +17,11 @@ This is a repo through which a friend of mine learns the magical art of code and
     - Video / Blog
 
 
+
 - In future, to improve the programming skills and to have a real world feedback loop 
     - Unity3D ( Windows only)
+    - Go-lang
+
 
 ## What we will build
 
