@@ -17,6 +17,11 @@ This is a repo through which a friend of mine learns the magical art of code and
 
 ## Resources
 
+- Vagrant 
+- VirtualBox
+- Ubuntu 16.04
+
+
 #### Video 
 - Trnt
 - Microsoft Videos 
@@ -24,6 +29,11 @@ This is a repo through which a friend of mine learns the magical art of code and
 - Coursera
 - EdX
 - Stepik
+
+
+#### EBooks
+- Learn Bash the Hard way
+- Learn enough series 
 
 #### Books
 - CTCI 
@@ -34,13 +44,25 @@ This is a repo through which a friend of mine learns the magical art of code and
 - The RoadMap is still under construction but as of now a couple things are certain
 
     - VsCode
-    - NeoVim ( SpaceVim)
+    - NeoVim 
+        - SpaceVim
     - GitHub 
     - GitKraken
+    - Go-lang 
+        - Hugo 
+        - CLI tools
     - PowerShell
+        - psake 
+        - pester
+        - plaster
     - C#
     - dotNet Core 
-    - Video / Blog
+
+## Social Awareness 
+    
+    - Video 
+    - Blog
+    - Twitter streak
 
 
 
@@ -60,7 +82,4 @@ This is a repo through which a friend of mine learns the magical art of code and
 
 - ClojureCLR Compiler
 - Inkle
-
-
-
-
+- Docker
