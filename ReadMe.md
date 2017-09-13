@@ -2,6 +2,11 @@
 
 This is a repo through which a friend of mine learns the magical art of code and moves towards his dream life and job
 
+## Resources
+
+- Trnt
+- Microsoft Videos 
+- Udemy
 
 
 ## RoadMap
