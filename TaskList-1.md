@@ -6,8 +6,8 @@
 
 ## Install
 
-[] Choco
-[] Powershell Core
-[] dotNet Core
-[] VsCode
-[] Golang
+- [] Choco
+- [] Powershell Core
+- [] dotNet Core
+- [] VsCode
+- [] Golang
