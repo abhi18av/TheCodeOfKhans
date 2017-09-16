@@ -61,7 +61,7 @@ This is a repo through which a friend of mine learns the magical art of code and
 
 ## Social Awareness 
     
-    - Video 
+    - Video ( Vimeo )
     - Blog
     - Twitter streak
 
