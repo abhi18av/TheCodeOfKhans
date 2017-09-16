@@ -12,7 +12,6 @@ This is a repo through which a friend of mine learns the magical art of code and
 ## Accountability
 
 - Habitica
-- TaskMaster
 - Pomodoro
 
 ## Resources
