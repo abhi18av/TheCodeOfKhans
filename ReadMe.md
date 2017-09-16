@@ -13,6 +13,7 @@ This is a repo through which a friend of mine learns the magical art of code and
 
 - Habitica
 - Pomodoro
+- TaskWarrior ( WSL , bash skill) 
 
 ## Resources
 
