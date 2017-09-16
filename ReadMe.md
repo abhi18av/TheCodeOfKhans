@@ -8,6 +8,8 @@ This is a repo through which a friend of mine learns the magical art of code and
 - The training would be designed with a `sysAdmin` with a top priority.
 - Secondary objective is to gain understanding of `game design` through Unity. 
 
+## Pre-requisite
+Proper Touch Typing 
 
 ## Accountability
 
