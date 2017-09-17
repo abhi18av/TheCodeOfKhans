@@ -86,4 +86,5 @@ Proper Touch Typing
 
 - ClojureCLR Compiler
 - Inkle
+- PowerShell Core
 - Docker
