@@ -13,6 +13,8 @@ vscodevim.vim
 
 - [ ] Make an account on Habitica
 
+- [ ] Make an account on LinkedIn
+
 - [ ] Sync your fork from this repository using Github
 
 This is how you do it,
