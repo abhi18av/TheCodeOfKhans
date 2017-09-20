@@ -54,6 +54,7 @@ Proper Touch Typing
     - Go-lang 
         - Hugo 
         - CLI tools
+            - API Clients
     - PowerShell
         - psake 
         - pester
@@ -63,9 +64,9 @@ Proper Touch Typing
 
 ## Social Awareness 
     
-    - Video ( Vimeo )
-    - Blog
-    - Twitter streak
+- Video ( Vimeo )
+- Blog
+- Twitter streak
 
 
 
@@ -85,4 +86,5 @@ Proper Touch Typing
 
 - ClojureCLR Compiler
 - Inkle
+- PowerShell Core
 - Docker
