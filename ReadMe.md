@@ -84,6 +84,8 @@ Proper Touch Typing
 
 ## Master Level
 
+- Rosetta Code
+- Make-a-lisp
 - ClojureCLR Compiler
 - Inkle
 - PowerShell Core

@@ -1,6 +1,6 @@
 # poker-face
 
-FIXME: description
+Working on a card games based approach to learning and teaching programming.
 
 ## Installation
 
