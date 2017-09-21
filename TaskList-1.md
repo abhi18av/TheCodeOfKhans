@@ -6,14 +6,14 @@
 
 ## Install
 
-- [x] Choco
-- [x] Powershell Core
-- [x] dotNet Core
-- [x] VsCode
-- [x] Golang
-- [x] GitKraken
+- [ ] Choco
+- [ ] Powershell Core
+- [ ] dotNet Core
+- [ ] VsCode
+- [ ] Golang
+- [ ] GitKraken
 
 
 ## Learning and Reading
-- [x] Github and Git
+- [ ] Github and Git
   - You need to learn how to `fork` and `update your fork` from `remote master` using Github. 
