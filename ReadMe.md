@@ -84,7 +84,10 @@ Proper Touch Typing
 
 ## Master Level
 
-- ClojureCLR Compiler
+- Automated UI Testing
+    - http://machinepublishers.github.io/jBrowserDriver
 - Inkle
 - PowerShell Core
 - Docker
+- asp.NET Core
+    - https://github.com/nbarbettini/little-aspnetcore-book/blob/master/README.md
