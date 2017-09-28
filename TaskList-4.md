@@ -1,6 +1,6 @@
 Your task for this week is to
 
-- [ ] Setup Ubuntu-16.04 in virtual box by downloading the pre-made image from this website ( 1 GB )
+- [x] Setup Ubuntu-16.04 in virtual box by downloading the pre-made image from this website ( 1 GB )
 http://www.osboxes.org/ubuntu/#ubuntu-16-04-vboxVirtualBox
 
 **Blog**
@@ -24,8 +24,8 @@ We will practice code review through Github this exercise this week.
 
 You can practice the bash commands  on Ubuntu running in virtual machine.
 
-- [ ] Get started onResume using https://github.com/salomonelli/best-resume-ever link. ( You'll need to install nodejs for this )
+- [x] Get started onResume using https://github.com/salomonelli/best-resume-ever link. ( You'll need to install nodejs for this )
 
 - [ ] Make a LinkedIn profile and connect with me here https://www.linkedin.com/in/abhi18av/
 
-- [ ] Make an account on Vimeo / YouTube
+- [x] Make an account on Vimeo / YouTube
