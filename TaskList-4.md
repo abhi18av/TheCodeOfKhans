@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=DPIPC25xzUM
 
 - [ ] Go through the links mentioned in the shared google doc on Freedcamp milestone and translate the exercises into Powershell 
 
-- [ ] Send pull request in TheCodeOfKhans with 
+- [x] Send pull request in TheCodeOfKhans with 
 
 - Properly commented code 
 - Things you have skipped

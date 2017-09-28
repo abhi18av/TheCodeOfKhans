@@ -28,7 +28,6 @@ fi
 #>
 
 $BIRTHDATE = '01.01.2000'
-<#[datetime]$BIRTHDATE#>
 $Presents = 10
 $BIRTHDAY = [datetime]::ParseExact($BIRTHDATE, 'dd.MM.yyyy', $null)
 Write-Output $BIRTHDAY
