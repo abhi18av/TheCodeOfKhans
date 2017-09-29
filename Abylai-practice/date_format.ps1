@@ -1,4 +1,4 @@
-<#The target of this exercise is to create a string, an integer, and a complex variable using command substitution. The string should be named BIRTHDATE and should contain the text "Jan 1 2000". The integer should be named Presents and should contain the number 10. The complex variable should be named BIRTHDAY and should contain the full weekday name of the day matching the date in variable BIRTHDATE e.g. Saturday.#>
+<#The script was taken from exercise http://www.learnshell.org/en/Variables #>
 
 <#BASH script#>
 
@@ -29,9 +29,10 @@ fi
 
 $BIRTHDATE = '01.01.2000'
 $Presents = 10
-$BIRTHDAY = [datetime]::ParseExact($BIRTHDATE, 'dd.MM.yyyy', $null)
-Write-Output $BIRTHDAY
-
+$BIRTHDAY = [datetime]::ParseExact($BIRTHDATE, 'dd.MM.yyyy', $null) <#Parsing datetime from string#>
+Write-Output $BIRTHDAY <#output for check up the correctness of parsing#>
+ 
+<#outputs with conditions#>
 if($BIRTHDATE = "01.01.2000"){
     "BIRTHDATE is correct, it is $BIRTHDATE"
 }
