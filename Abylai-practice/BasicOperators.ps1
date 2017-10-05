@@ -1,4 +1,4 @@
-<#This scrit is analog of bash example from http://www.learnshell.org/en/Basic_Operators" #>
+<#This script is analog of bash example from http://www.learnshell.org/en/Basic_Operators" #>
 $A = 3 <#create variable with value 3#>
 $B = 100*$A + 5
 $B <#call result#>
