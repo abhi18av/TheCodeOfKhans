@@ -1,6 +1,6 @@
 ### List of Extensions you need to install in VsCode
 
-- [ ] The first name is the name of the author like (donjayamanne) and python is the keyword you need to search in the extensions in VsCode extension menu.
+- [x] The first name is the name of the author like (donjayamanne) and python is the keyword you need to search in the extensions in VsCode extension menu.
 
 ```sh
 donjayamanne.python
@@ -11,9 +11,9 @@ ms-vscode.PowerShell
 vscodevim.vim
 ```
 
-- [ ] Make an account on Habitica
+- [x] Make an account on Habitica
 
-- [ ] Sync your fork from this repository using Github
+- [x] Sync your fork from this repository using Github
 
 This is how you do it,
 
@@ -21,7 +21,7 @@ https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the
 
 In case you get stuck, just delete the fork using the `settings` tab on your repository page and start again.
 
-- [ ] Add an `X` to all the ` [ ] ` in the `TaskList-1.md` and send me a `pull request`
+- [x] Add an `X` to all the ` [ ] ` in the `TaskList-1.md` and send me a `pull request`
 
 ### Advice: 
 

@@ -5,11 +5,11 @@ This is a repo through which a friend of mine learns the magical art of code and
 
 ## Goals
 
-- The training would be designed with a `sysAdmin` with a top priority.
+- The training would be designed with a `sysAdmin` as the top priority.
 - Secondary objective is to gain understanding of `game design` through Unity. 
 
 ## Pre-requisite
-Proper Touch Typing 
+Proper Touch Typing skills
 
 ## Accountability
 
@@ -87,6 +87,10 @@ Proper Touch Typing
 - Rosetta Code
 - Make-a-lisp
 - ClojureCLR Compiler
+- Automated UI Testing
+    - http://machinepublishers.github.io/jBrowserDriver
 - Inkle
 - PowerShell Core
 - Docker
+- asp.NET Core
+    - https://github.com/nbarbettini/little-aspnetcore-book/blob/master/README.md
