@@ -39,6 +39,18 @@ namespace Self_Assessment_Lab
             Console.WriteLine($"The course name is { Programming_With_CSharp.courseName} \n{Bachelor.degreeName} degree");
             Console.WriteLine($"The program name is { IT.programName}");
             Console.WriteLine($"Number of students in Programming With CSharp course: {Programming_With_CSharp.StudCount()}");
+
+            // Test code for module 2 Self Assessment Lab
+            /*
+            teacher1.CleanTheDesk();
+            teacher1.firstName = "Maria";
+            teacher1.lastName = "Romanovna";
+            stud1.birthDate = "12 nov 1963";
+            stud2.country = "Canada";
+            stud3.school = "N 19";
+
+            Person myperson = stud3;
+            */
         }
     }
 }
